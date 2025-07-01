@@ -10,7 +10,7 @@ This is a clean and responsive **Footer component** built with React. It include
 - Easy-to-customize link sections
 - Clean and minimalist UI design
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 React
 
 CSS Modules
